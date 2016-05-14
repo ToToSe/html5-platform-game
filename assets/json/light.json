@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "tochLit1.png",
+	"frame": {"x":1,"y":1,"w":30,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":30,"h":69},
+	"sourceSize": {"w":70,"h":70}
+},
+{
+	"filename": "tochLit2.png",
+	"frame": {"x":1,"y":72,"w":30,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":30,"h":69},
+	"sourceSize": {"w":70,"h":70}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "light.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":142},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b2831c629341512e05d977b449979a11:b201918ee1667099a1348e83fd98a142:667de6b72f41f892496969469aea341b$"
+}
+}

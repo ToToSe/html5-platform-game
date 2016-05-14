@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "bunny1L_walk1.png",
+	"frame": {"x":1,"y":569,"w":120,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":201},
+	"sourceSize": {"w":120,"h":201}
+},
+{
+	"filename": "bunny1L_walk2.png",
+	"frame": {"x":1,"y":360,"w":120,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":207},
+	"sourceSize": {"w":120,"h":207}
+},
+{
+	"filename": "bunny1_hurt1.png",
+	"frame": {"x":1,"y":184,"w":150,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":174},
+	"sourceSize": {"w":150,"h":174}
+},
+{
+	"filename": "bunny1_jump1.png",
+	"frame": {"x":1,"y":1,"w":150,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":181},
+	"sourceSize": {"w":150,"h":181}
+},
+{
+	"filename": "bunny1_ready.png",
+	"frame": {"x":123,"y":772,"w":120,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":191},
+	"sourceSize": {"w":120,"h":191}
+},
+{
+	"filename": "bunny1_stand.png",
+	"frame": {"x":1,"y":772,"w":120,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":201},
+	"sourceSize": {"w":120,"h":201}
+},
+{
+	"filename": "bunny1_walk1.png",
+	"frame": {"x":123,"y":569,"w":120,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":201},
+	"sourceSize": {"w":120,"h":201}
+},
+{
+	"filename": "bunny1_walk2.png",
+	"frame": {"x":123,"y":360,"w":120,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":207},
+	"sourceSize": {"w":120,"h":207}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bunny.png",
+	"format": "RGBA8888",
+	"size": {"w":244,"h":974},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:41c2c7807cc1c28bf0f3f6437fbdce79:beb6ee0f0332a808d2d913ee2f1be568:8cd39669a6554f33ec81b353c76b4981$"
+}
+}

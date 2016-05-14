@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "gold_1.png",
+	"frame": {"x":1,"y":1,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "gold_2.png",
+	"frame": {"x":87,"y":1,"w":68,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":68,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "gold_3.png",
+	"frame": {"x":227,"y":1,"w":52,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":52,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "gold_4.png",
+	"frame": {"x":335,"y":1,"w":17,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":0,"w":17,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "gold_5.png",
+	"frame": {"x":281,"y":1,"w":52,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":52,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+{
+	"filename": "gold_6.png",
+	"frame": {"x":157,"y":1,"w":68,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":68,"h":84},
+	"sourceSize": {"w":84,"h":84}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coins.png",
+	"format": "RGBA8888",
+	"size": {"w":353,"h":86},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:34e231a857fedd1eb37b76d516ba4436:528dd4e55d59ac0322cc949bc3e5145b:51f960d29b2cb2ae0010061540f14fb7$"
+}
+}

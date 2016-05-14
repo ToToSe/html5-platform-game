@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "check.png",
+	"frame": {"x":1,"y":1,"w":81,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":85},
+	"sourceSize": {"w":81,"h":85}
+},
+{
+	"filename": "check_done.png",
+	"frame": {"x":84,"y":1,"w":81,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":85},
+	"sourceSize": {"w":81,"h":85}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "check.png",
+	"format": "RGBA8888",
+	"size": {"w":166,"h":87},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:694834c677b8f61d6514cfc135ab894f:a5a5448e95abf546c5ddee03fde620ef:29f9c5ad009055d77a58246c811b460d$"
+}
+}

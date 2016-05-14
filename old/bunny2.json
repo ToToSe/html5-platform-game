@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "bunny2L_walk1.png",
+	"frame": {"x":1,"y":569,"w":121,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":201},
+	"sourceSize": {"w":121,"h":201}
+},
+{
+	"filename": "bunny2L_walk2.png",
+	"frame": {"x":1,"y":360,"w":121,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":207},
+	"sourceSize": {"w":121,"h":207}
+},
+{
+	"filename": "bunny2_hurt1.png",
+	"frame": {"x":1,"y":184,"w":150,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":174},
+	"sourceSize": {"w":150,"h":174}
+},
+{
+	"filename": "bunny2_jump1.png",
+	"frame": {"x":1,"y":1,"w":150,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":181},
+	"sourceSize": {"w":150,"h":181}
+},
+{
+	"filename": "bunny2_ready.png",
+	"frame": {"x":124,"y":772,"w":121,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":191},
+	"sourceSize": {"w":121,"h":191}
+},
+{
+	"filename": "bunny2_stand.png",
+	"frame": {"x":1,"y":772,"w":121,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":201},
+	"sourceSize": {"w":121,"h":201}
+},
+{
+	"filename": "bunny2_walk1.png",
+	"frame": {"x":124,"y":569,"w":121,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":201},
+	"sourceSize": {"w":121,"h":201}
+},
+{
+	"filename": "bunny2_walk2.png",
+	"frame": {"x":124,"y":360,"w":121,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":207},
+	"sourceSize": {"w":121,"h":207}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bunny2.png",
+	"format": "RGBA8888",
+	"size": {"w":246,"h":974},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0c7614dcb73f08105b3f9dbea55a8292:a060a7906534b5dc79d0b08efdfa7dea:b3d557b2ec2b9da272dccba169758b47$"
+}
+}
